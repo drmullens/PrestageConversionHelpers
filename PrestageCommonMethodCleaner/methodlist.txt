@@ -1,0 +1,51 @@
+Function FormSearch() As Boolean
+Function FormSearch() As Object
+Sub FormZoom()
+Sub FormZoomExtra()
+Function FormCheck() As Boolean
+Function FormCheckExtra() As Boolean
+Function FormSave() As Boolean
+Function FormSave() As Object
+Function FormSaveDetail() As Boolean
+Function FormSaveDetail() As Object
+Function FormSaveExtra()
+Function FormSaveExtra(ByRef main_set As ADODB.Recordset) As Boolean
+Function FormSecurityCheck() As Boolean
+Function FormSecurityCheck() As Object
+Sub FormChange()
+Sub FormChangeExtra()
+Sub FormClear()
+Sub FormExit()
+Sub FormCancel()
+Sub FormClearDetail()
+Sub FormClearExtra()
+Sub FormShow()
+Function FormProcessDetail(ByVal cur_column As Integer, ByVal cur_row As Integer) As Boolean
+Function FormProcessDetail(ByVal cur_column As Short, ByVal cur_row As Short) As Boolean
+Function FormProcessDetailExtra(ByVal cur_column As Short, ByVal cur_row As Short) As Boolean
+FormInitDetail()
+Sub FormShowExtra()
+Sub FormCallSave()  
+Sub FormMoveFirst()
+Sub FormMoveLast()
+Sub FormMoveNext()
+Sub FormMovePrevious()
+Function FormDeleteExtra() As Boolean
+Function FormDeleteExtra() As Object
+Function FormCheckToDelete() As Boolean
+Function FormDelete(Optional deleteSpecial As Func(Of SqlTransaction, Boolean) = Nothing) As Boolean
+Function FormDelete() As Object
+Sub PrintForm()
+Sub FormDeleteCurrentRow()
+Sub FormInsertNewRow()
+
+
+
+
+
+
+
+
+
+
+

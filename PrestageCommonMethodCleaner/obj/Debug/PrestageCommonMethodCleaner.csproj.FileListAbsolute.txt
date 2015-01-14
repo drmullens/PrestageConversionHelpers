@@ -1,0 +1,11 @@
+c:\users\joellius\documents\visual studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\bin\Debug\PrestageCommonMethodCleaner.exe.config
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\bin\Debug\PrestageCommonMethodCleaner.exe
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\bin\Debug\PrestageCommonMethodCleaner.pdb
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\bin\Debug\PrestageCommonMethodCleanerHelpers.dll
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\bin\Debug\PrestageCommonMethodCleanerHelpers.pdb
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\obj\Debug\PrestageCommonMethodCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\obj\Debug\PrestageCommonMethodCleaner.Form1.resources
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\obj\Debug\PrestageCommonMethodCleaner.Properties.Resources.resources
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\obj\Debug\PrestageCommonMethodCleaner.csproj.GenerateResource.Cache
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\obj\Debug\PrestageCommonMethodCleaner.exe
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleaner\obj\Debug\PrestageCommonMethodCleaner.pdb

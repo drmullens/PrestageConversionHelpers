@@ -1,0 +1,5 @@
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleanerHelpers\bin\Debug\PrestageCommonMethodCleanerHelpers.dll
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleanerHelpers\bin\Debug\PrestageCommonMethodCleanerHelpers.pdb
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleanerHelpers\obj\Debug\PrestageCommonMethodCleanerHelpers.csprojResolveAssemblyReference.cache
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleanerHelpers\obj\Debug\PrestageCommonMethodCleanerHelpers.dll
+C:\Users\Joellius\Documents\Visual Studio 2013\Projects\PrestageCommonMethodCleaner\PrestageCommonMethodCleanerHelpers\obj\Debug\PrestageCommonMethodCleanerHelpers.pdb

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<methods>
+	<method>
+		<name>FormSearch</name>
+		<parameters></parameters>
+		<returntype></returntype>
+		<accesslevel>Public</accesslevel>
+		<body>
+		
+		</body>
+		<replacementaction></replacementaction>
+	</method>
+	<method>
+		<name>FormZoom</name>
+		<parameters></parameters>
+		<returntype></returntype>
+		<accesslevel></accesslevel>
+		<body></body>
+		<replacementaction></replacementaction>
+	</method>
+	<method>
+		<name></name>
+		<parameters></parameters>
+		<returntype></returntype>
+		<accesslevel></accesslevel>
+		<body></body>
+		<replacementaction></replacementaction>
+	</method>
+</methods>
