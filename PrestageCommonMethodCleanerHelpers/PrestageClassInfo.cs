@@ -1,9 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+
 
 namespace PrestageCommonMethodCleanerHelpers
 {
@@ -15,6 +16,14 @@ namespace PrestageCommonMethodCleanerHelpers
         {
             get { return _className; }
             set { _className = value; }
+        }
+
+        private string _accessModifier;
+
+        public string AccessModifier
+        {
+            get{return _accessModifier; }
+            set{ _accessModifier = value; }
         }
 
         private string _parentClass;
@@ -65,6 +74,7 @@ namespace PrestageCommonMethodCleanerHelpers
             Regex methodDefinition = new Regex(definitionPattern);
             Regex methodBody = new Regex(bodyPattern);
 
+            PrestageXMLInfo myXML = new PrestageXMLInfo();
 
             int startIndex = 0;
             bool continueEh = true; //canandian notation
@@ -83,6 +93,8 @@ namespace PrestageCommonMethodCleanerHelpers
                         if (startIndex == 0)
                         {
                             this.TopSection = section;
+                            AccessModifier = myXML.getClassAccessModifier(section);
+                            ClassName = myXML.getClassName(section);
                         }
                         else
                         {
@@ -100,7 +112,9 @@ namespace PrestageCommonMethodCleanerHelpers
                 Methods.Add(info);
                 startIndex = m.Index + m.Length;
             }
-        }
 
+            myXML.WriteToXML(this);
+           
+        }       
     }
 }
